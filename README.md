@@ -1,11 +1,14 @@
 # Flashforge Adventurer 4
+[![Image of an adventurer four](the-machine%20with%20hearts.jpg "Adventurer 4")](#)
 
 Unofficial home for collections of profile settings files, guides, FAQ´s, advices, best practices - for owners of the Flashforge Adventurer 4. 
-If you´re not used to Git or Github, see the section below. 
+
+
 
 # Reading this site
 
 * Browse the folders in this repository and read/download the files you need.
+* If you´re not used to Git or Github, see the section below. 
 
 # Looking for answers to problems?
 
