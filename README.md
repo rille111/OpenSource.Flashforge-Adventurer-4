@@ -3,8 +3,6 @@
 
 Unofficial home for collections of profile settings files, guides, FAQ´s, advices, best practices - for owners of the Flashforge Adventurer 4. 
 
-
-
 # Using the files in this place
 
 * Browse the folders in this repository and read/download the files you need.
@@ -23,6 +21,10 @@ If you´re not used to Github that´s completely fine. You can edit or add stuff
 There's also the wiki, discussions and issues. See the respective tab, and help out there.
 
 If you want to learn Github, see below. 
+
+# Links
+
+* https://www.flashforge.com/product-detail/flashforge-adventurer-4-3d-printer - this is our machine!
 
 # New to Github? 
 
