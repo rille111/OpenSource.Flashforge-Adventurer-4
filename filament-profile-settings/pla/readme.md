@@ -2,7 +2,7 @@
 
 ## Hyper Settings
 
-[a link](Hyper setting AD4.fcfg)
+* [Hyper setting AD4.fcfg](Hyper%20setting%20AD4.fcfg)
 
 > OK, I got tired of waiting!
 When I was beta testing the AD4, we were given a special copy of FP4 that recognised the AD4. It had 4 settings and not just standard. From what I've been told there's no plans to release a Hyper mode as they say there's almost no difference over standard. This Beta copy had;
