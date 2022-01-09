@@ -5,7 +5,7 @@ Unofficial home for collections of profile settings files, guides, FAQ´s, advic
 
 
 
-# Reading this site
+# Using the files in this place
 
 * Browse the folders in this repository and read/download the files you need.
 * If you´re not used to Git or Github, see the section below. 
@@ -18,7 +18,7 @@ Unofficial home for collections of profile settings files, guides, FAQ´s, advic
 
 # Help this site grow by contributing
 
-If you´re not used to Github that´s completely fine. You can edit or add stuff right here! And someone can review the changes and pull these into the repository (this place).
+If you´re not used to Github that´s completely fine. You can edit or add stuff right here! Just look for the Edit or the Upload buttons. Someone can then review the changes and pull these into the repository (this place) after having a look, so that everybody else then can see your contribution.
 
 There's also the wiki, discussions and issues. See the respective tab, and help out there.
 
