@@ -1,9 +1,11 @@
 # Profiles for PLA and PLA Plus/Pro
 
-## Hyper Settings
+There might be more files in this folder than what's described here below!
 
-* Download: https://github.com/rille111/Flashforge-Adventurer-4/blob/master/filament-profile-settings/pla/Hyper%20setting%20AD4.fcfg
-* Edit: [Hyper setting AD4.fcfg](Hyper%20setting%20AD4.fcfg)
+## Hyper Settings - Hyper setting AD4.fcfg
+
+* Download: [Hyper setting AD4.fcfg](https://raw.githubusercontent.com/rille111/Flashforge-Adventurer-4/master/filament-profile-settings/pla/Hyper%20setting%20AD4.fcfg)
+* Link: [Hyper setting AD4.fcfg](Hyper%20setting%20AD4.fcfg)
 
 Credits: Originally *Phil Arntzen* in the [Facebook group](https://www.facebook.com/groups/913241999042183/permalink/1575807069452336) created this file.
 
