@@ -2,6 +2,17 @@
 
 There might be more files in this folder than what's described here below!
 
+## Hyper Settings - 12mm_Detailed_RPG_Minis_Good.fcfg
+
+* Download: [12mm_Detailed_RPG_Minis_Good.fcfg](https://raw.githubusercontent.com/rille111/Flashforge-Adventurer-4/master/filament-profile-settings/pla/12mm_Detailed_RPG_Minis_Good.fcfg)
+* Link: [12mm_Detailed_RPG_Minis_Good.fcfg](12mm_Detailed_RPG_Minis_Good.fcfg)
+
+Credits: Rickard Robin
+
+### Comments
+
+> I like this. It's good enough details, works with PLA and PLA Pro. It's pretty fast too.
+
 ## Hyper Settings - Hyper setting AD4.fcfg
 
 * Download: [Hyper setting AD4.fcfg](https://raw.githubusercontent.com/rille111/Flashforge-Adventurer-4/master/filament-profile-settings/pla/Hyper%20setting%20AD4.fcfg)
@@ -22,3 +33,4 @@ Simply use "Import" when you are in the slicer.
 ### Comments
 
 * This profile works best with linear supports.
+* I got some problems with this with the bottom layer being shifted, the model being moved, resulting in stringing. Maybe because of my PLA - Rickard Robin

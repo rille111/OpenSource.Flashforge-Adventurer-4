@@ -3,7 +3,7 @@ machineId=21
 nozzleSize=@Variant(\0\0\0\x87>\xcc\xcc\xcd)
 filamentSizes0=@Variant(\0\0\0\x87?\xe0\0\0)
 filamentSizes1=@Variant(\0\0\0\x87\0\0\0\0)
-profileName=12mm Detailed RPG Minis Good
+profileName=12mm_Detailed_RPG_Minis_Good
 
 [General]
 extruderTemp0=@Variant(\0\0\0\x87\x43R\0\0)
@@ -51,8 +51,8 @@ shellStartPosClosestX1=@Variant(\0\0\0\x87\x46\x1c@\0)
 shellStartPosClosestY1=@Variant(\0\0\0\x87\xc2\xc8\0\0)
 shellAlterableStartPos=true
 fillTopSolidCnt=@Variant(\0\0\0\x87@\x80\0\0)
-fillBottomSolidCnt=@Variant(\0\0\0\x87@@\0\0)
-fillDensity=@Variant(\0\0\0\x87>L\xcc\xcd)
+fillBottomSolidCnt=@Variant(\0\0\0\x87@\x80\0\0)
+fillDensity=@Variant(\0\0\0\x87>\x99\x99\x9a)
 fillPattern=1
 fillStartAngle=@Variant(\0\0\0\x87\x42\x34\0\0)
 fillCrossAngle=@Variant(\0\0\0\x87\x42\xb4\0\0)
